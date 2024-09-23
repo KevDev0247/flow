@@ -1,7 +1,9 @@
 # Flow
 PLEASE CHECK AT THE END OF 2024-09-23
 
-Take home project for flow interview! Work in progress... Currently testing out concurrency features and edge cases, 
+Take home project for flow interview! Work in progress... Currently testing out concurrency features and edge cases.
+
+Also, check out [Proofster](https://github.com/KevDev0247/proofster), a first order logic computation project where I applied knowledge of Golang, Python, algorithms, and microservices.
 
 ## Table of Contents
 
