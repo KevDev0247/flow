@@ -9,7 +9,7 @@ import (
 func main() {
 	handler := blocks.NewBlockHandler()
 
-	http.HandleFunc("/blocks", handler.Process)
+	http.HandleFunc("/process", handler.Process)
 
 	fmt.Println("Server starting on port 8080...")
 	if err := http.ListenAndServe(":8080", nil); err != nil {

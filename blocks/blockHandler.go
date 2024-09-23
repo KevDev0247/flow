@@ -93,8 +93,6 @@ func (h *BlockHandler) handleVote(vote Vote, block Block) {
 }
 
 func (h *BlockHandler) Process(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintln(w, "Entered process handler")
-
 	var reqData RequestData
 
 	err := json.NewDecoder(r.Body).Decode(&reqData)
