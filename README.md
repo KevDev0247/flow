@@ -34,6 +34,11 @@ Also, check out [Proofster](https://github.com/KevDev0247/proofster), a first or
      ```bash
      git clone git@github.com:KevDev0247/flow.git
      ```
+4. Download `stretchr/testify`
+   - Inside your project directory, run the following command to download the `stretchr/testify` package for testing:
+     ```bash
+     go get github.com/stretchr/testify
+     ```
 
 ## Dependencies
 
