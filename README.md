@@ -1,6 +1,6 @@
 # Flow
 
-Take home project for flow interview!
+Take home project for flow interview! Work in progress... Currently testing out concurrency features and edge cases, CHECK AT THE END OF 2024-09-23
 
 ## Table of Contents
 
